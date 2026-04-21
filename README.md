@@ -1,7 +1,6 @@
 # Hi there, I'm Peter 👋
 
-🎓 **Computer Engineering Student** at **Wrocław University of Science and Technology** 3rd year of Bachelor degree
-
+🎓 **Software and Computer Engineer** from **Wrocław University of Science and Technology**
 ---
 
 ### 🛠️ **Languages & Tools**  
