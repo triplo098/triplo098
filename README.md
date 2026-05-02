@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Advent%20Of%20Code-FFFF66.svg?style=for-the-badge&logo=Advent-Of-Code&logoColor=black" alt="Advent of Code" />
   <img src="https://img.shields.io/badge/Framework-000000.svg?style=for-the-badge&logo=Framework&logoColor=white" alt="Framework" />
   <img src="https://img.shields.io/badge/FreeCAD-red?style=for-the-badge&logo=FreeCAD&logoColor=white" alt="FreeCAD" />
-
-  
+  <img src="https://img.shields.io/badge/-tmux-1BB91F?style=flat&logo=tmux&logoColor=white" alt="tmux" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   
 </p>
 
