@@ -1,5 +1,16 @@
 # Hi there, I'm Peter 👋
 
+**🤖 Highly recommended CS related stuff**
+---
+
+https://www.youtube.com/@TsodingDaily
+
+https://www.based.academy/
+
+https://www.youtube.com/@Computerphile
+
+
+
 🎓 **Software and Computer Engineer** from **Wrocław University of Science and Technology**
 ---
 
